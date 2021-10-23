@@ -1,0 +1,2 @@
+# seq2seq_english_to_chinese
+基于pytorch的英文翻译成中文
